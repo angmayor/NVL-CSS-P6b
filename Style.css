@@ -1,0 +1,14 @@
+
+div > p {
+	border: 2px solid #fabada;
+	color: #000000;
+}
+
+div .importante {
+	color: #000000;
+	border: none;
+}
+
+p.importante + p {
+	color: #e74c3c;
+}
